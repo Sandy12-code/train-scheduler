@@ -11,7 +11,7 @@ departure data.This website will provide up-to-date information about various tr
 
 ## Instructions to Run the App
 
-* Clone the file from github. https://github.com/Sandy12-code/burger
+* Clone the file from github. https://github.com/Sandy12-code/train-scheduler
 
 * Run the applications by simply opening on your default browser.
 
