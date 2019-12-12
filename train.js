@@ -42,6 +42,7 @@ $(document).ready(function () {
       //console.log('Time being checked is ' + trainDay.format("HH:mm") + ' and now is ' + currentTime.format("HH:mm"));
       if( !timeFound && currentTime.isBefore(trainDay, 'minute') ){
         timeFound = true;
+        // Clone refers to pointing to a different location while duplicating trainDay variable
         nextArrivalTime = trainDay.clone();
       }
     }
